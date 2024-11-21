@@ -1,0 +1,12 @@
+2f9f0301a13181929a1b565bf6050888 *DESCRIPTION
+e1fe8826012043c8eb09c7be038d3cfe *NAMESPACE
+68c1b68bfa93cbed481c3524247df065 *R/int.crq.R
+1b10b0726c9bc2acccbffee13d01c9a6 *R/int.mcrq.R
+4a150ba72365533c385372ecb67f012b *R/mpcrq.R
+7c492533e41ad8cd4eda196540e25651 *R/mprq.R
+3300fc5d26701801a2bb133900afa18c *R/pcrq.R
+bd7f210ba19494df8576f3cee2a96503 *R/prq.R
+7bd5990ef3b12556b5088a06dda6f3ad *man/consrq-package.Rd
+168831858d1c05a3ca9e94ba33572ab0 *man/int.crq.Rd
+cd313ca191774e76ffb27fb9df5d1e96 *man/pcrq.Rd
+7b7a6d0f671ee9ebfedbe03dc1c291f3 *man/prq.Rd
